@@ -1,0 +1,5 @@
+{{#User}} 
+Name: Challa Rakesh 
+Skills: HTML5,CSS3,Javascript,React,Node.js,Express.js,Python,DSA,SQL
+Email: rakeshchr17@gmail.com 
+{{/User}} 
